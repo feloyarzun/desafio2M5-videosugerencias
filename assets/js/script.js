@@ -1,4 +1,4 @@
-//Integrantes: Araceli - Felipe Oyarzun - Teresa Olivares
+//Integrantes: Araceli Vera - Felipe Oyarzun - Teresa Olivares
 class Multimedia {
   #url; // para ponerlo privado
   constructor(url) {
